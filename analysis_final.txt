@@ -1,0 +1,59 @@
+Analyzing Mobil Programlama...                                  
+
+   info - Constructors for public widgets should have a named 'key' parameter - lib\main.dart:34:7 - use_key_in_widget_constructors
+   info - Constructors for public widgets should have a named 'key' parameter - lib\main.dart:61:7 - use_key_in_widget_constructors
+   info - The file name 'AmeliyatEkranı.dart' isn't a lower_case_with_underscores identifier - lib\screens\AmeliyatEkranı.dart:1:1 - file_names
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\AmeliyatEkranı.dart:8:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\AmeliyatEkranı.dart:10:3 - library_private_types_in_public_api
+   info - The file name 'AnaEkran.dart' isn't a lower_case_with_underscores identifier - lib\screens\AnaEkran.dart:1:1 - file_names
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\AnaEkran.dart:10:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\AnaEkran.dart:12:3 - library_private_types_in_public_api
+   info - The file name 'AnketEkranı.dart' isn't a lower_case_with_underscores identifier - lib\screens\AnketEkranı.dart:1:1 - file_names
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\AnketEkranı.dart:6:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\AnketEkranı.dart:8:3 - library_private_types_in_public_api
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\AnketEkranı.dart:338:51 - deprecated_member_use
+   info - The file name 'AyarlarEkranı.dart' isn't a lower_case_with_underscores identifier - lib\screens\AyarlarEkranı.dart:1:1 - file_names
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\AyarlarEkranı.dart:219:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\AyarlarEkranı.dart:299:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\AyarlarEkranı.dart:342:72 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\screens\AyarlarEkranı.dart:372:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\AyarlarEkranı.dart:377:72 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\AyarlarEkranı.dart:408:72 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\AyarlarEkranı.dart:439:72 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\AyarlarEkranı.dart:472:85 - deprecated_member_use
+   info - The file name 'HastaneHaritaEkrani.dart' isn't a lower_case_with_underscores identifier - lib\screens\HastaneHaritaEkrani.dart:1:1 - file_names
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\HastaneHaritaEkrani.dart:9:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\HastaneHaritaEkrani.dart:11:3 - library_private_types_in_public_api
+   info - Don't use 'BuildContext's across async gaps - lib\screens\HastaneHaritaEkrani.dart:33:28 - use_build_context_synchronously
+   info - Don't invoke 'print' in production code - lib\screens\HastaneHaritaEkrani.dart:105:7 - avoid_print
+   info - The file name 'HoşgeldinizEkranı.dart' isn't a lower_case_with_underscores identifier - lib\screens\HoşgeldinizEkranı.dart:1:1 - file_names
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\HoşgeldinizEkranı.dart:5:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\HoşgeldinizEkranı.dart:7:3 - library_private_types_in_public_api
+   info - Don't use 'BuildContext's across async gaps - lib\screens\HoşgeldinizEkranı.dart:26:28 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\HoşgeldinizEkranı.dart:41:28 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\screens\HoşgeldinizEkranı.dart:53:28 - use_build_context_synchronously
+   info - The file name 'SonuçEkranı.dart' isn't a lower_case_with_underscores identifier - lib\screens\SonuçEkranı.dart:1:1 - file_names
+   info - Parameter 'key' could be a super parameter - lib\screens\SonuçEkranı.dart:11:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\SonuçEkranı.dart:149:77 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\SonuçEkranı.dart:175:47 - deprecated_member_use
+   info - The file name 'YapayZekaEkranı.dart' isn't a lower_case_with_underscores identifier - lib\screens\YapayZekaEkranı.dart:1:1 - file_names
+   info - Constructors for public widgets should have a named 'key' parameter - lib\screens\YapayZekaEkranı.dart:34:7 - use_key_in_widget_constructors
+   info - Invalid use of a private type in a public API - lib\screens\YapayZekaEkranı.dart:36:3 - library_private_types_in_public_api
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\YapayZekaEkranı.dart:115:47 - deprecated_member_use
+   info - The file name 'ÖzetEkranı.dart' isn't a lower_case_with_underscores identifier - lib\screens\ÖzetEkranı.dart:1:1 - file_names
+   info - Don't invoke 'print' in production code - lib\screens\ÖzetEkranı.dart:62:7 - avoid_print
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\ÖzetEkranı.dart:204:64 - deprecated_member_use
+   info - Unnecessary use of 'toList' in a spread - lib\screens\ÖzetEkranı.dart:277:73 - unnecessary_to_list_in_spreads
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\ÖzetEkranı.dart:306:74 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\ÖzetEkranı.dart:354:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\ÖzetEkranı.dart:355:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\ÖzetEkranı.dart:435:42 - deprecated_member_use
+   info - Use 'rethrow' to rethrow a caught exception - lib\services\auth_service.dart:23:7 - use_rethrow_when_possible
+   info - Use 'rethrow' to rethrow a caught exception - lib\services\auth_service.dart:33:7 - use_rethrow_when_possible
+   info - Use 'rethrow' to rethrow a caught exception - lib\services\auth_service.dart:41:7 - use_rethrow_when_possible
+   info - Don't invoke 'print' in production code - lib\services\gemini_service.dart:24:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\services\groq_service.dart:55:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\services\groq_service.dart:60:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\services\storage_service.dart:96:9 - avoid_print
+  error - The constructor being called isn't a const constructor - test\widget_test.dart:16:29 - const_with_non_const
+

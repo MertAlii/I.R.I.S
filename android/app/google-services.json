@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "795709300858",
+    "project_id": "iris-a0951",
+    "storage_bucket": "iris-a0951.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795709300858:android:44271110b89c65311d1bc3",
+        "android_client_info": {
+          "package_name": "com.example.iris_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795709300858-cvn1ktqb8aothtkntauec8j6vbs1b451.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB76ZxFLnA4Id_79-xj5UYWwpowM6pTQFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795709300858-cvn1ktqb8aothtkntauec8j6vbs1b451.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795709300858-k6of53q800ocbshbnkev360j0b7plurf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iris.irisRecovery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795709300858:android:bde799ddc107b6321d1bc3",
+        "android_client_info": {
+          "package_name": "com.iris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795709300858-130qo71uus354e6kpagk0k2qshe53gnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iris",
+            "certificate_hash": "9f643e9dca3ad3461876e17746e2804d1765df61"
+          }
+        },
+        {
+          "client_id": "795709300858-cvn1ktqb8aothtkntauec8j6vbs1b451.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB76ZxFLnA4Id_79-xj5UYWwpowM6pTQFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795709300858-cvn1ktqb8aothtkntauec8j6vbs1b451.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795709300858-k6of53q800ocbshbnkev360j0b7plurf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iris.irisRecovery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795709300858:android:5616563a44eb91ce1d1bc3",
+        "android_client_info": {
+          "package_name": "com.iris.iris_recovery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795709300858-cvn1ktqb8aothtkntauec8j6vbs1b451.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB76ZxFLnA4Id_79-xj5UYWwpowM6pTQFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795709300858-cvn1ktqb8aothtkntauec8j6vbs1b451.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795709300858-k6of53q800ocbshbnkev360j0b7plurf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iris.irisRecovery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795709300858:android:542552885e28b1601d1bc3",
+        "android_client_info": {
+          "package_name": "com.recovery.recovery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795709300858-cvn1ktqb8aothtkntauec8j6vbs1b451.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB76ZxFLnA4Id_79-xj5UYWwpowM6pTQFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795709300858-cvn1ktqb8aothtkntauec8j6vbs1b451.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795709300858-k6of53q800ocbshbnkev360j0b7plurf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iris.irisRecovery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
